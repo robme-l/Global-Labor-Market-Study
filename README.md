@@ -25,10 +25,50 @@ Below is an aggregation of Take Home Pay after living expenses and income taxes 
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
-## Gathered Metrics Pending Visualization
-
 ### Measure of Opportunity
-This is a constructed a heatmap of opportunity that combines both job availability and salary levels to identify the cities and roles with the most opportunity (the brighter the spot, the more opportunity).
+This is a constructed a heatmap of relative opportunity that combines both job availability and salary levels to identify the cities and roles with the most opportunity (the brighter the spot, the more opportunity).
+
+<p align="center">
+  <img alt="Opportunity Heatmap" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/heatmap.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
 
 ### Job Distribution by City
 Finally, this is the job distributions of each city.
+
+<p align="center">
+  <img alt="Abu Dhabi jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Abu Dhabi_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Almaty jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Almaty_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Amsterdam jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Amsterdam_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Austin jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Austin_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Beijing jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Beijing_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Berlin jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Berlin_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Cupertino jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Cupertino_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Doha jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Doha_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Frankfurt jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Frankfurt_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Geneva jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Geneva_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Guangzhou jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Guangzhou_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Hangzhou jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Hangzhou_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Abu Dhabi jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Abu Dhabi_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Hong Kong jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Hong Kong_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Jakarta jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Jakarta_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img alt="Johannesburg jobs" src="https://github.com/robme-l/Global-Labor-Market-Study/blob/main/Johannesburg_jobs.PNG">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+
+If you would like to see a city or profession not listed here to be measured in the future, feel free to drop me a message.
